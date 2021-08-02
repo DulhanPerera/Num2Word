@@ -44,7 +44,7 @@ elif letter == 'W' or letter == 'w':
         a1 = b1 // 10
         a2 = b1 % 10
         print(hundreds[b2], tens[a1], ones[a2])
-
+# 1000
     elif num1 == 1000:
         print("One thousand")
 
