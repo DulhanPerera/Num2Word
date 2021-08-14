@@ -7,4 +7,5 @@ First when you run the code it will ask for a user input and you can give any nu
 then you have to select the correct opthin in there W means convert to words and C means convert to USD.
 But this program only works for the Sri Lankan Rupee Values.
 
-                      # Try And See how it Works #
+
+   # Try And See how it Works # 🎯
